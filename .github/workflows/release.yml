@@ -5,8 +5,7 @@ on:
    branches: [master] 
 
 permissions:
-  contents: read
-  deployments: write
+  contents: write
 
 jobs:
   deploy:
